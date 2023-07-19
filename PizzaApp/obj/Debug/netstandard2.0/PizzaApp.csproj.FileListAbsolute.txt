@@ -1,0 +1,14 @@
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/bin/Debug/netstandard2.0/PizzaApp.deps.json
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/bin/Debug/netstandard2.0/PizzaApp.dll
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/bin/Debug/netstandard2.0/PizzaApp.pdb
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/PizzaApp.AssemblyInfoInputs.cache
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/PizzaApp.AssemblyInfo.cs
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/PizzaApp.csproj.CoreCompileInputs.cache
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/PizzaApp.dll
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/ref/PizzaApp.dll
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/PizzaApp.pdb
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/obj/Debug/netstandard2.0/PizzaApp.csproj.AssemblyReference.cache
+/Users/charmasson.melanie/Projects/PizzaApp/PizzaApp/PizzaApp/bin/Debug/netstandard2.0/ref/PizzaApp.dll
